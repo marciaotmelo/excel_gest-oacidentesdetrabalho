@@ -1,3 +1,4 @@
+![Painel](https://user-images.githubusercontent.com/108886670/226035064-26678cd9-e53a-44a4-9009-d4b4dc0d6b34.png)
 # excel_gestao_acidentesdetrabalho
 Gestão de Acidentes de Trabalho no Excel
 
